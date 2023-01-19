@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>218261271677-riojvgii9v0lg2n5th0m3jj39tj5pb8v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.218261271677-riojvgii9v0lg2n5th0m3jj39tj5pb8v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCicowqg-omQEyqKi2NwrvYCBqxxe6AeRA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>218261271677</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.Bruh</string>
+	<key>PROJECT_ID</key>
+	<string>husl-b64ea</string>
+	<key>STORAGE_BUCKET</key>
+	<string>husl-b64ea.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:218261271677:ios:20cead906275d161b5ed14</string>
+	<key>DATABASE_URL</key>
+	<string>https://husl-b64ea-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
